@@ -28,10 +28,10 @@ const Contact =()=>{
         		</div>
         		<div class="footer col-12 col-md-3">
         			<p class=""><strong>Links</strong><br></br>
-        				<a class="text-dark" href="#"> Github</a><br></br>
-        				<a class="text-dark" href="#"> Hackerrank</a><br></br>
-        				<a class="text-dark" href="#"> Codechef</a><br></br>
-        				<a class="text-dark" href="#"> Codeforces</a><br></br>
+        				<a class="text-dark" href="https://github.com/teach-me-tech"> Github</a><br></br>
+        				<a class="text-dark" href="https://www.hackerrank.com/shivamkkr_583"> Hackerrank</a><br></br>
+        				<a class="text-dark" href="https://www.codechef.com/users/its_mahaadev"> Codechef</a><br></br>
+        				<a class="text-dark" href="https://codeforces.com/profile/Shiva_mahadev"> Codeforces</a><br></br>
         			</p>
         		</div>
         	</div>
